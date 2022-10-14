@@ -1,1 +1,2 @@
-aaaaa
+git push -u origin  master # 从本地同步到github  从origin（仓库标识同步到github）
+
