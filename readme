@@ -2,3 +2,5 @@ git remote rm origin
 git remote add origin 'git@github.com:helloWnd/Py_Jyputer-.git'
 git push -u origin  master # 从本地同步到github  从origin（仓库标识同步到github）
 
+
+git pull origin # 从远程仓库拉取内容 到本地(并合并）
